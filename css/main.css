@@ -11,7 +11,19 @@ font-family: Dongle;
   left: 0;
   top: 0;
   width: 100%;
-  background-color: red;
-  color: white;
-  text-align: center;
+  background-color: white;
+  color: black;
+  padding-left: 50px;
+  padding-right: 50px;
+  box-shadow: 0 0 50px #9999;
+}
+
+.htextstyle {
+  color: black;
+  font-size: 20px;
+}
+
+
+.navigation {
+  text-align: right;
 }
