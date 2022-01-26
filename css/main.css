@@ -1,4 +1,17 @@
-body {
-background: yellow;
+@import url(https://fonts.googleapis.com/css?family=Dongle);
 
+body {
+background: white;
+font-family: Dongle;
+}
+
+
+.fixedheader {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
 }
