@@ -40,15 +40,17 @@ li:visited {
 
 
 .whiteblock {
-  text-align: center;
-  margin: 50px;
-  padding: 50px;
+  margin-top: 200px;
+  margin-left: auto;
+  margin-right: auto;
   color: white;
   box-shadow: 0 0 50px #9999;
-  width: 100%;
+  width: 80%;
 }
 
 .boxtextstyle {
-
-  
+  text-align: center;
+  color: black;
+  font-size: 50px;
+  padding: 50px;
 }
